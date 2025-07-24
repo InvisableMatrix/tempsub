@@ -23,7 +23,6 @@ hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@us.redbean.pro:21219?insecure=0
 hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@us.redbean.pro:21902?insecure=0&mport=21001-21999#%E7%BE%8E%E5%9B%BD2
 hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@nl.redbean.pro:21582?insecure=0&mport=21001-21999#%E8%8D%B7%E5%85%B01
 hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@nl.redbean.pro:21456?insecure=0&mport=21001-21999#%E8%8D%B7%E5%85%B02
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 `;
 
 let urls = [];
