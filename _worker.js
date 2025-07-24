@@ -8,21 +8,15 @@ let ChatID = ''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
 let FileName = 'CF-Workers-SUB';
 let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
-let total = 99;//TB
+let total = 1;//TB
 let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@jp.redbean.pro:21493?insecure=0&mport=21001-21999#%E6%97%A5%E6%9C%AC1
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@jp.redbean.pro:21548?insecure=0&mport=21001-21999#%E6%97%A5%E6%9C%AC2
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@sg.redbean.pro:21247?insecure=0&mport=21001-21999#%E6%96%B0%E5%8A%A0%E5%9D%A11
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@sg.redbean.pro:21160?insecure=0&mport=21001-21999#%E6%96%B0%E5%8A%A0%E5%9D%A12
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@hk.redbean.pro:21808?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF1
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@hk.redbean.pro:21281?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF2
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@us.redbean.pro:21219?insecure=0&mport=21001-21999#%E7%BE%8E%E5%9B%BD1
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@us.redbean.pro:21902?insecure=0&mport=21001-21999#%E7%BE%8E%E5%9B%BD2
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@nl.redbean.pro:21582?insecure=0&mport=21001-21999#%E8%8D%B7%E5%85%B01
-hysteria2://17cd302b-7d97-47f9-ba8a-e69c3099fe45@nl.redbean.pro:21456?insecure=0&mport=21001-21999#%E8%8D%B7%E5%85%B02
+vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@162.159.251.160:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main01
+vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@141.101.114.122:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main02
+vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@162.159.49.59:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main03
+vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@198.41.193.52:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main04
 `;
 
 let urls = [];
