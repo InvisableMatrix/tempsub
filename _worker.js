@@ -33,34 +33,26 @@ trojan://Seedgo@104.16.19.118:443?security=tls&sni=bia.REDMatrIx.eu.OrG&alpn=htt
 trojan://Seedgo@162.159.25.8:443?security=tls&sni=bia.reDMATRiX.Eu.oRg&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoiMUUxdmtZQWs1Q29hdSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc3NC54eXoiLCJjZi44Nzc3NzQueHl6IiwiZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmciLCJzYWFzLnNpbi5mYW4iLCJjdC4wOTAyMjcueHl6Il19#%F0%9F%92%A6%2007
 trojan://Seedgo@162.159.152.81:443?security=tls&sni=bIA.ReDMATrIX.eU.ORg&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoidnVNS2x5aUZjRm96MCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc3NC54eXoiLCJjZi44Nzc3NzQueHl6IiwiZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmciLCJzYWFzLnNpbi5mYW4iLCJjdC4wOTAyMjcueHl6Il19#%F0%9F%92%A6%2008
 trojan://Seedgo@162.159.24.175:443?security=tls&sni=bia.RedmATrIX.eu.OrG&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoiV0VGaVhPNDVzUHBOciIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc0Lnh5eiIsImNmLjg3Nzc0Lnh5eiIsImZyZWV5eC5jbG91ZGZsYXJlODguZXUub3JnIiwic2Fhcy5zaW4uZmFuIiwiY3QuMDkwMjI3Lnh5eiJdfQ%3D%3D#%F0%9F%92%A6%2009
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.32.223:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-0
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.153:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-1
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.32.148:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-2
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.224:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-3
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.41.161:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-4
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.52.218:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-5
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.50.158:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-6
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.220:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-7
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.42.11:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-8
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.39.73:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-9
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.110:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-10
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.43.29:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-11
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.42.234:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-12
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.34.199:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-13
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.40.113:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-14
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.45.210:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-15
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.44.14:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-16
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.38.85:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-17
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.44.202:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-18
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.43.213:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-19
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.47.227:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-20
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.40.208:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-21
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.33.158:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-22
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.32.45:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-23
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.80:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-24
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.38.143:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-25
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.39.222:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-26
-vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.49.137:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#US-27
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.50.34:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-1
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.53.169:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-2
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.50.172:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-3
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.38.20:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-4
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@162.159.40.7:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-5
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@162.159.43.2:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-6
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.32.92:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-7
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.53.249:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-8
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.38.67:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-9
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.34.184:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-10
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.35.75:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-11
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@194.76.18.22:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-12
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.38.143:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-13
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.45.210:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-14
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.47.227:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-15
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.44.14:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-16
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.39.73:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-17
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.40.113:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-18
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.153:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-19
+vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.224:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-20
 `;
 
 let urls = [];
@@ -873,6 +865,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
