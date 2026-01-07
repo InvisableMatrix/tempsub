@@ -53,6 +53,23 @@ vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.39.73:443?encryption=none&se
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.40.113:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-18
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.153:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-19
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.224:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-20
+vless://1365fded-4e60-4057-b408-0e8fa083108e@hk2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=edge&pbk=mZtlvdA_Hx2TJDInSO9WF4N241Y4oqUoCWjFcw3fNkA&sid=4c5632849b&spx=%2F&type=tcp&headerType=none#HK-1
+vless://1365fded-4e60-4057-b408-0e8fa083108e@jp4.miyazono-kaori.com:34862?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=qq&pbk=TXrnAHY3cIBO-2eKz0GpJr88-UkBgSPjFusYRDhZviI&sid=289d6b1911&spx=%2F&type=tcp&headerType=none#JP-1
+vless://1365fded-4e60-4057-b408-0e8fa083108e@jp3.miyazono-kaori.com:54541?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=edge&pbk=OQN7yX9YMjTEbBLDhv87Pw2dpBwmj39y9lUd7vzhATQ&sid=28ccd1d1a3273cca&spx=%2F&type=tcp&headerType=none#JP-1
+hysteria2://1365fded-4e60-4057-b408-0e8fa083108e@kr2.miyazono-kaori.com:41012?sni=kr2.miyazono-kaori.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rVYx28ncsHBinunc#KR-1
+hysteria2://1365fded-4e60-4057-b408-0e8fa083108e@kr1.miyazono-kaori.com:42556?sni=kr1.miyazono-kaori.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=MKsqfibVxwhZ3pCf#KR-2
+vless://1365fded-4e60-4057-b408-0e8fa083108e@nl2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.philips.com&fp=firefox&pbk=Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI&sid=883d8dad940eb1&spx=%2F&type=tcp&headerType=none#NL-1
+vless://1365fded-4e60-4057-b408-0e8fa083108e@nl1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.philips.com&fp=safari&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6&spx=%2F&type=tcp&headerType=none#NL-2
+vless://1365fded-4e60-4057-b408-0e8fa083108e@sg4.miyazono-kaori.com:37482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.viu.com&fp=qq&pbk=CX-aKsMqDPw36unqWGoCLTo3cboy4VC-vX1QMYpHEwg&sid=4ab6d4&spx=%2F&type=tcp&headerType=none#SG-1
+vless://1365fded-4e60-4057-b408-0e8fa083108e@sg2.miyazono-kaori.com:53639?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.gov.sg&fp=edge&pbk=-dXCwlgmxE-QbePanIp41G33Tmq1M6z9c-u89vEs2QU&sid=cd0b83faccc8e2&spx=%2F&type=tcp&headerType=none#SG-2
+vless://1365fded-4e60-4057-b408-0e8fa083108e@sg3.miyazono-kaori.com:21260?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=qq&pbk=2P3Z8KYrNjIA85ceuvE2UNABGsuwNrq612l-Jb2FnEY&sid=1877325b227432&spx=%2F&type=tcp&headerType=none#SG-3
+vless://1365fded-4e60-4057-b408-0e8fa083108e@tw2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=cJc4dNsluJs9LimkkO6uVVafilOvr6H8Jx2uM9JnhEE&sid=129271&spx=%2F&type=tcp&headerType=none#TW-1
+vless://1365fded-4e60-4057-b408-0e8fa083108e@tw1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=KJgODVMTQcncG_l1ZCDhzn8gEgMU2YRl2Yw2je6moWY&sid=c0d856ec&spx=%2F&type=tcp&headerType=none#TW-2
+vless://1365fded-4e60-4057-b408-0e8fa083108e@us1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&pbk=9mkPUmY5M-N81bSDf3lP9X3JnH25l4SfeUTnlwV04Eo&sid=d77c4204&spx=%2F&type=tcp&headerType=none#US-1
+vless://1365fded-4e60-4057-b408-0e8fa083108e@us4.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=safari&pbk=2RnixPgcm1SYJhlmbifaVWcjcMQ9ABfEMgVTUziQ0GI&sid=5ac1a79182&spx=%2F&type=tcp&headerType=none#US-2
+vless://1365fded-4e60-4057-b408-0e8fa083108e@us2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=qq&pbk=_TIQSjojgpdSBoSVXuQjFSqIdPeXjQIQkM5cFSv6Gnc&sid=9613864900a8f12d&spx=%2F&type=tcp&headerType=none#US-3
+vless://1365fded-4e60-4057-b408-0e8fa083108e@jp1.miyazono-kaori.com:49550?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=ios&pbk=6215-NkTVxzWwumf0_nIvVsxUiciNOBAPpeuEHt_Tko&sid=39365e4ee6df44&spx=%2F&type=tcp&headerType=none#US-3
+vless://1365fded-4e60-4057-b408-0e8fa083108e@us3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=ios&pbk=1vMO86Bpz3FJNbtRPaGVOee9ZdEcXGY6WcQblDLpqWA&sid=d46670db1e&spx=%2F&type=tcp&headerType=none#US-4
 `;
 
 let urls = [];
@@ -865,6 +882,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
