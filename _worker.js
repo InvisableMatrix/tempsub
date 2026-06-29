@@ -54,6 +54,7 @@ vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.40.113:443?encryption=none&s
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.153:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-19
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.224:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-20
 https://9090.eastwind.cloudns.ch/9090
+https://fa.zmxoo.xyz/subapi
 `;
 
 let urls = [];
