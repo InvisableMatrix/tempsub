@@ -54,6 +54,14 @@ vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.40.113:443?encryption=none&s
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.153:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-19
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.224:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-20
 https://9090.eastwind.cloudns.ch/9090
+vless://df14796a-1c1a-444a-886f-13775d4022a2@mfa.gov.ua:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-1
+vless://df14796a-1c1a-444a-886f-13775d4022a2@saas.sin.fan:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-2
+vless://df14796a-1c1a-444a-886f-13775d4022a2@store.ubi.com:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-3
+vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.130519.xyz:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-4
+vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.008500.xyz:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-5
+vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.090227.xyz:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-6
+vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.877774.xyz:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-7
+vless://df14796a-1c1a-444a-886f-13775d4022a2@cdns.doon.eu.org:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-8
 https://fa.zmxoo.xyz/subapi
 `;
 
