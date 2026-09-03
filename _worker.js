@@ -62,7 +62,10 @@ vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.008500.xyz:443?host=9090.eastwin
 vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.090227.xyz:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-26
 vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.877774.xyz:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-27
 vless://df14796a-1c1a-444a-886f-13775d4022a2@cdns.doon.eu.org:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-28
-https://fa.zmxoo.xyz/subapi
+vless://42e128c0-fbad-42a6-93cd-aa183de50f60@grimness-backlogs.cdn-content.com:443?encryption=none&security=tls&sni=grimness-backlogs.cdn-content.com&fp=chrome&alpn=http%2F1.1&type=ws&host=grimness-backlogs.cdn-content.com&path=%2Fws#FL1
+vless://42e128c0-fbad-42a6-93cd-aa183de50f60@ghosts-spasm.quick-cdn.net:443?encryption=none&security=tls&sni=ghosts-spasm.quick-cdn.net&fp=chrome&alpn=http%2F1.1&type=ws&host=ghosts-spasm.quick-cdn.net&path=%2Fws#FL2
+vless://42e128c0-fbad-42a6-93cd-aa183de50f60@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#FL3
+https://tian.zmxoo.xyz/linkapi
 `;
 
 let urls = [];
