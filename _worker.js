@@ -53,8 +53,6 @@ vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.39.73:443?encryption=none&se
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.40.113:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-18
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@104.18.36.153:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-19
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.64.48.224:443?encryption=none&security=tls&sni=light.redsalt.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=light.redsalt.de5.net&path=%2F%3Fed%3D2048#US-20
-https://9090.eastwind.cloudns.ch/9090
-https://freesocks.org/api/v1/sub/dc311e079aaf74d56c6d5d00341fb7ea
 vless://df14796a-1c1a-444a-886f-13775d4022a2@mfa.gov.ua:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-21
 vless://df14796a-1c1a-444a-886f-13775d4022a2@saas.sin.fan:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-22
 vless://df14796a-1c1a-444a-886f-13775d4022a2@store.ubi.com:443?host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090&security=tls&sni=9090.eastwind.cloudns.ch&type=ws#US-23
@@ -66,7 +64,9 @@ vless://df14796a-1c1a-444a-886f-13775d4022a2@cdns.doon.eu.org:443?host=9090.east
 vless://42e128c0-fbad-42a6-93cd-aa183de50f60@grimness-backlogs.cdn-content.com:443?encryption=none&security=tls&sni=grimness-backlogs.cdn-content.com&fp=chrome&alpn=http%2F1.1&type=ws&host=grimness-backlogs.cdn-content.com&path=%2Fws#FL1
 vless://42e128c0-fbad-42a6-93cd-aa183de50f60@ghosts-spasm.quick-cdn.net:443?encryption=none&security=tls&sni=ghosts-spasm.quick-cdn.net&fp=chrome&alpn=http%2F1.1&type=ws&host=ghosts-spasm.quick-cdn.net&path=%2Fws#FL2
 vless://42e128c0-fbad-42a6-93cd-aa183de50f60@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#FL3
+https://freesocks.org/api/v1/sub/dc311e079aaf74d56c6d5d00341fb7ea
 https://tian.zmxoo.xyz/linkapi
+https://www.ziyoufly.com/feed/5DWaHFQXZFNEzmD9.g4n9fvPIA5Tiuap0PSEu3Eiu0-a2ahOGN_N3vQjY5LHw8qWVjPY-6ZgUJKTfiVMWhIDVMA1geG8xYXn7wpnoqlMHiD203CxBDlQg0MQ4-65t0w
 `;
 
 let urls = [];
