@@ -65,7 +65,8 @@ vless://42e128c0-fbad-42a6-93cd-aa183de50f60@grimness-backlogs.cdn-content.com:4
 vless://42e128c0-fbad-42a6-93cd-aa183de50f60@ghosts-spasm.quick-cdn.net:443?encryption=none&security=tls&sni=ghosts-spasm.quick-cdn.net&fp=chrome&alpn=http%2F1.1&type=ws&host=ghosts-spasm.quick-cdn.net&path=%2Fws#FL2
 vless://42e128c0-fbad-42a6-93cd-aa183de50f60@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#FL3
 https://freesocks.org/api/v1/sub/dc311e079aaf74d56c6d5d00341fb7ea
-https://tian.zmxoo.xyz/linkapi
+https://downloads.onelighter.site/api/v1/client/subscribe?token=9ccfe77e7be590605858dab2989eebed
+https://s4.laoda666.com/s/78ab5b57cd99ab2e5bdd3af7a7d90b76
 https://www.ziyoufly.com/feed/5DWaHFQXZFNEzmD9.g4n9fvPIA5Tiuap0PSEu3Eiu0-a2ahOGN_N3vQjY5LHw8qWVjPY-6ZgUJKTfiVMWhIDVMA1geG8xYXn7wpnoqlMHiD203CxBDlQg0MQ4-65t0w
 `;
 
