@@ -73,6 +73,9 @@ vless://42e128c0-fbad-42a6-93cd-aa183de50f60@ghosts-spasm.quick-cdn.net:443?encr
 vless://42e128c0-fbad-42a6-93cd-aa183de50f60@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#FL3
 https://freesocks.org/api/v1/sub/dc311e079aaf74d56c6d5d00341fb7ea
 vless://dda9d36f-7be4-49bf-a126-080f74db6e4a@rn.iping.ggff.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iping.ggff.net&fp=chrome&pbk=viV_NqRUI4_aF0vTeNqyDvYbsMy-5t1wj5kxagV5ziA&sid=846c0f0d7d8dcb&spx=%2F&type=tcp&headerType=none#GoogleScholar
+vless://5fa86cd6-68c2-46c2-bbc6-eef2e33ae2a4@162.159.160.2:443?encryption=none&security=tls&sni=uka.456776.xyz&fp=firefox&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query&type=ws&host=uka.456776.xyz&path=%2F#GB-1
+vless://5fa86cd6-68c2-46c2-bbc6-eef2e33ae2a4@162.159.160.208:443?encryption=none&security=tls&sni=uka.456776.xyz&fp=firefox&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query&type=ws&host=uka.456776.xyz&path=%2F#GB-2
+vless://5fa86cd6-68c2-46c2-bbc6-eef2e33ae2a4@cfa.wazhua.org:443?encryption=none&security=tls&sni=dea.456776.xyz&fp=firefox&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query&type=ws&host=dea.456776.xyz&path=%2F#DE-1
 `;
 
 let urls = [];
