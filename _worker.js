@@ -77,7 +77,7 @@ vless://5fa86cd6-68c2-46c2-bbc6-eef2e33ae2a4@162.159.160.208:443?encryption=none
 vless://5fa86cd6-68c2-46c2-bbc6-eef2e33ae2a4@cfa.wazhua.org:443?encryption=none&security=tls&sni=dea.456776.xyz&fp=firefox&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query&type=ws&host=dea.456776.xyz&path=%2F#DE-1
 vless://f7cb96b0-f65f-4898-8b82-8d78c62bd0d3@87.120.252.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.com&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#FL4
 vless://f7cb96b0-f65f-4898-8b82-8d78c62bd0d3@87.120.252.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.asia&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#FL5
-vless://f7cb96b0-f65f-4898-8b82-8d78c62bd0d3@87.120.252.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.eu&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#xray1-relay-mci1-fs-ce-relay-ac1489
+vless://f7cb96b0-f65f-4898-8b82-8d78c62bd0d3@87.120.252.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.eu&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#FL6
 anytls://099d1062-5022-496b-a736-11505c240526@line1.sssunny.com:31001?insecure=1&security=tls&sni=m.qpic.cn&type=tcp&headerType=none#HK1
 anytls://099d1062-5022-496b-a736-11505c240526@line2.sssunny.com:32001?insecure=1&security=tls&sni=m.qpic.cn&type=tcp&headerType=none#HK2
 anytls://84f34cc5-8679-41ce-b4a9-eea650ff94eb@line1.sssunny.com:31001?insecure=1&security=tls&sni=m.qpic.cn&type=tcp&headerType=none#HK3
