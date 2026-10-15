@@ -16,6 +16,7 @@ let MainData = `
 vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@162.159.251.160:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main01
 vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@141.101.114.122:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main02
 vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@185.193.28.220:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main03
+vless://dda9d36f-7be4-49bf-a126-080f74db6e4a@rn.iping.ggff.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iping.ggff.net&fp=chrome&pbk=viV_NqRUI4_aF0vTeNqyDvYbsMy-5t1wj5kxagV5ziA&sid=846c0f0d7d8dcb&spx=%2F&type=tcp&headerType=none#GoogleScholar
 vless://df14796a-1c1a-444a-886f-13775d4022a2@cf.877774.xyz:443?encryption=none&security=tls&sni=9090.eastwind.cloudns.ch&type=ws&host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090#US-1
 vless://df14796a-1c1a-444a-886f-13775d4022a2@saas.sin.fan:443?encryption=none&security=tls&sni=9090.eastwind.cloudns.ch&type=ws&host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090#US-2
 anytls://099d1062-5022-496b-a736-11505c240526@line2.sssunny.com:32001?insecure=1&security=tls&sni=m.qpic.cn&type=tcp&headerType=none#XX-3
@@ -70,7 +71,6 @@ anytls://099d1062-5022-496b-a736-11505c240526@line1.sssunny.com:31004?insecure=1
 vless://df14796a-1c1a-444a-886f-13775d4022a2@205.233.181.232:443?encryption=none&security=tls&sni=9090.eastwind.cloudns.ch&type=ws&host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090#US-52
 trojan://Seedgo@162.159.152.81:443?security=tls&sni=bIA.ReDMATrIX.eU.ORg&fp=chrome&alpn=http%2F1.1&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoidnVNS2x5aUZjRm96MCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc3NC54eXoiLCJjZi44Nzc3NzQueHl6IiwiZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmciLCJzYWFzLnNpbi5mYW4iLCJjdC4wOTAyMjcueHl6Il19#XX-53
 vless://03cfac55-eaf6-46e7-b901-5df04fc9f888@108.165.216.216:443?encryption=none&security=tls&sni=beam.redsalt.cc.cd&fp=randomized&type=ws&host=beam.redsalt.cc.cd&path=%2F%3Fed%3D2048#US-54
-vless://dda9d36f-7be4-49bf-a126-080f74db6e4a@rn.iping.ggff.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iping.ggff.net&fp=chrome&pbk=viV_NqRUI4_aF0vTeNqyDvYbsMy-5t1wj5kxagV5ziA&sid=846c0f0d7d8dcb&spx=%2F&type=tcp&headerType=none#XX-55
 vless://f5120df8-92db-4aa4-90c4-08e3b6e69d98@uk-001.xiaoxiaobujidao.xyz:19443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=vMHW4_fx7bd_4bFZN9ecx58xSjv6SLg0wRYrdI62yUo&type=tcp&headerType=none#GB-56
 vless://df14796a-1c1a-444a-886f-13775d4022a2@mfa.gov.ua:443?encryption=none&security=tls&sni=9090.eastwind.cloudns.ch&type=ws&host=9090.eastwind.cloudns.ch&path=%2Fmy-key%3D9090#US-57
 anytls://84f34cc5-8679-41ce-b4a9-eea650ff94eb@line2.sssunny.com:32002?insecure=1&security=tls&sni=m.qpic.cn&type=tcp&headerType=none#GB-58
