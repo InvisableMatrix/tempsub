@@ -110,6 +110,7 @@ vless://19fe4659-4ef3-4e3d-9f74-7e670fd1f715@cm1.locallhost.cyou:2052?encryption
 vless://51dee179-5335-4b43-9a85-b6ba8961d1b2@a1.xtssc.top:36575?encryption=mlkem768x25519plus.native.0rtt.Tow4S15yJjfuyy6HAudsoWk7a0fc0i77PbKsCDch7Gk&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=GuujqEWdZfumvFHWflTjTsXjQO_nY0Zgtr5_pykmWnw&sid=7c0bdb96&spx=%2Fc82dd41972a7401&type=tcp&headerType=none#HK-91
 vless://e9a17959-7a02-450f-a076-6940361f3068@a2.xtssc.top:36374?encryption=mlkem768x25519plus.native.0rtt.yrmN2dkwcsfHTAxoQaXKu4-ZGwkFw2SNaYTf3c6NjFs&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=SBbE9QpcCiH3LOnJMlWQ-Nzh1DAEHeyq7-xqiHZVqUM&sid=c5&spx=%2Fedf7bb9def59bb1&type=tcp&headerType=none#US-92
 vless://48aa91a2-049c-49ac-902c-285a78dda068@a3.xtssc.top:20213?encryption=mlkem768x25519plus.native.0rtt.jgW6yME4UpniKpXG3pgFtKiIrp6via8LwqWQ657u5GU&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=wzNjMrLkfLTN-nKWzXnnxFtoOlKbg6qujsJ43lMQuWw&sid=d8&spx=%2Fb2210069ab6f57e&type=tcp&headerType=none#US-93
+https://sub.7777792.xyz/api/v1/client/subscribe?token=9ccfe77e7be590605858dab2989eebed
 `;
 
 let urls = [];
