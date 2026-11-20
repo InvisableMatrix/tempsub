@@ -140,6 +140,7 @@ tuic://3538671a-a158-4e0b-915c-8ebd71370643%3A3538671a-a158-4e0b-915c-8ebd713706
 vless://a7d21568-8861-4ad5-8e08-b726747732c2@cfb.wazhua.org:443?encryption=none&security=tls&sni=hkb.456776.xyz&fp=firefox&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query&type=ws&host=hkb.456776.xyz&path=%2F#HK-121
 vless://3538671a-a158-4e0b-915c-8ebd71370643@khhk.12345675.xyz:8017?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=Yv52v-dLWuNj_mNjbSasuRyi-Pte_gX1MSgSjz4h5hw&spx=%2F&type=tcp&headerType=none#XX-122
 tuic://3538671a-a158-4e0b-915c-8ebd71370643%3A3538671a-a158-4e0b-915c-8ebd71370643@stjp.12345675.xyz:28321?sni=stjp.12345675.xyz&alpn=h3&congestion_control=cubic#XX-123
+https://b.wazhua.org/web?token=4f43e5f6a7c581fd71ad9e97474666e8
 `;
 
 let urls = [];
